@@ -7,4 +7,4 @@ for i in range(1,11):
         print(f'{i}par.')
 else:
     print(f'{numero} é impar')
-print('A ca bouuuuuuu')
+print('E A ca bouuuuuuu')
